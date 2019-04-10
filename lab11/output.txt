@@ -1,0 +1,33 @@
+Wys³anie listów do fabryki z 19 grudnia
+Miko³aj œpi
+List 4 nie dotar³ jeszcze do fabryki
+Wys³anie listów do fabryki z 20 grudnia
+Przetworzono wszystkie listy z 20 grudnia
+Miko³aj œpi
+Przetworzono wszystkie listy z 19 grudnia
+List 9 nie dotar³ jeszcze do fabryki
+Wys³anie listów do fabryki z 21 grudnia
+Miko³aj œpi
+Przetworzono wszystkie listy z 21 grudnia
+List 7 nie dotar³ jeszcze do fabryki
+Wys³anie listów do fabryki z 22 grudnia
+Miko³aj œpi
+List 1 zosta³ przetworzony
+Wys³anie listów do fabryki z 23 grudnia
+Miko³aj œpi
+Przetworzono wszystkie listy z 23 grudnia
+List 4 zosta³ przetworzony
+Przetworzono wszystkie listy z 22 grudnia
+Ho! Ho! Ho! Weso³ych œwi¹t!
+
+Autorzy listów:
+Autor listu 1 to Tomek
+Autor listu 2 to Brajanek
+Autor listu 3 to Ola
+Autor listu 4 to Gra¿yna
+Autor listu 5 to Marek
+Autor listu 9 to Agnieszka
+Autor listu 10 to Janusz
+Autor listu 6 to Grzeœ
+Autor listu 7 to Andrzej
+Autor listu 8 to Zuzia
